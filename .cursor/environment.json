@@ -1,0 +1,4 @@
+{
+  "name": "Hello World",
+  "install": "chmod +x hello-world.sh && bash -n hello-world.sh"
+}
